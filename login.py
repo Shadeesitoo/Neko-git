@@ -1,4 +1,4 @@
-print ("login v2"") 
+print ("login v2") 
 #git stash es un commit temporal, como para código sin terminar
 #Se genera una dirección o stash igual que con el commit
 #Git stash list es para ver la lista de los stash temporales
